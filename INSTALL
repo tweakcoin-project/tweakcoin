@@ -1,0 +1,9 @@
+Building TweakCoin
+
+See doc/readme-qt.rst for instructions on building TweakCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TweakCoin.
+
+See doc/build-*.txt for instructions on building tweakcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TweakCoin.
